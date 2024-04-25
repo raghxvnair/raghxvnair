@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Load Testing Framework](https://github.com/Load-Testing-Framework)
 
-- 🌱 I’m currently learning **Django, AWS, Kubernetes**
+- 🌱 I’m currently learning **AWS, Flask**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1n4KRlP2e1DWMf-O1QXmrfoi_t_ZkjCUN/view)
 
